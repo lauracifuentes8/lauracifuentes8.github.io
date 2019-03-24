@@ -1,0 +1,97 @@
+
+body {
+	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0666cb42-c6dc-438c-ae44-1f1a9f579994/dd2l0vd-aaa6339e-d37d-438e-8050-cbc14095da63.jpg/v1/fill/w_1153,h_693,q_70,strp/apocalyptic_storm_concept_art_by_lauracifuentes_dd2l0vd-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1NSIsInBhdGgiOiJcL2ZcLzA2NjZjYjQyLWM2ZGMtNDM4Yy1hZTQ0LTFmMWE5ZjU3OTk5NFwvZGQybDB2ZC1hYWE2MzM5ZS1kMzdkLTQzOGUtODA1MC1jYmMxNDA5NWRhNjMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0qmjykKiDY5FEdFNC_N6pHYqjw7c42q-tJxb4aIoh3w");
+	background-color: #cccccc;
+	background-size: cover;
+	font-family: 'Tangerine', serif;
+	color: white;
+  float: left;
+
+}
+#header{
+	width: 100%;
+	height: 10%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 50px;
+	font-family: 'Tangerine', serif;
+	color: white;
+}
+
+#header h1{
+	border: solid 1px white;
+	border-radius: 50%;
+	width: 50%;
+	text-align: center;
+}
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 500px;
+
+}
+
+div.gallery:hover {
+  border: 4px solid #777;
+  color: white;
+  border-color: white;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 100%;
+}
+div.gallery img:hover {
+
+  color: salmon;
+}
+
+div.desc {
+  padding: 15px;
+  	font-family: 'Comfortaa', cursive;
+	color: white;
+	text-align: center;
+}
+	.button {
+  background-color: #
+FFFFFF
+;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  color: black;
+  size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Comfortaa', cursive;
+}
+.button2 {background-color: #
+FFFFFF
+;}
+.button3 {background-color: #
+FFFFFF
+;}
+.dot1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: flex;
+  
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0666cb42-c6dc-438c-ae44-1f1a9f579994/dd2l3f0-735f4f61-56e7-47a8-9d87-943d72f8b130.jpg/v1/fill/w_944,h_846,q_70,strp/cabin_3d_modelling_by_lauracifuentes_dd2l3f0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE4IiwicGF0aCI6IlwvZlwvMDY2NmNiNDItYzZkYy00MzhjLWFlNDQtMWYxYTlmNTc5OTk0XC9kZDJsM2YwLTczNWY0ZjYxLTU2ZTctNDdhOC05ZDg3LTk0M2Q3MmY4YjEzMC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4MSG3pzv7j8UcWRNZnu9AfO6lkoE8CI8HFRCgt60fo0");
+  background-size: cover;
+  
+ border: solid 2px;
+ border-color: white;
+  
+ margin-top:0%;
+}
+.button:hover{
+	background-color: black;
+}
